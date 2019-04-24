@@ -97,22 +97,22 @@ public class Feux extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        rouge.setBackground(new java.awt.Color(0, 0, 0));
+        rouge.setBackground(new java.awt.Color(255, 255, 255));
         rouge.setFont(new java.awt.Font("Times New Roman", 0, 24)); // NOI18N
-        rouge.setForeground(new java.awt.Color(255, 204, 0));
-        rouge.setIcon(new javax.swing.ImageIcon("images/red.png")); // NOI18N
+        rouge.setForeground(new java.awt.Color(0, 0, 0));
+        rouge.setIcon(new javax.swing.ImageIcon("images/rouge.PNG")); // NOI18N
         rouge.setOpaque(true);
 
-        orange.setBackground(new java.awt.Color(0, 0, 0));
+        orange.setBackground(new java.awt.Color(255, 255, 255));
         orange.setFont(new java.awt.Font("Times New Roman", 0, 24)); // NOI18N
-        orange.setForeground(new java.awt.Color(255, 204, 0));
-        orange.setIcon(new javax.swing.ImageIcon("images/yellow.png")); // NOI18N
+        orange.setForeground(new java.awt.Color(0, 0, 0));
+        orange.setIcon(new javax.swing.ImageIcon("images/jaune.PNG")); // NOI18N
         orange.setOpaque(true);
 
-        vert.setBackground(new java.awt.Color(0, 0, 0));
+        vert.setBackground(new java.awt.Color(255, 255, 255));
         vert.setFont(new java.awt.Font("Times New Roman", 0, 24)); // NOI18N
-        vert.setForeground(new java.awt.Color(255, 204, 0));
-        vert.setIcon(new javax.swing.ImageIcon("images/green.png")); // NOI18N
+        vert.setForeground(new java.awt.Color(0, 0, 0));
+        vert.setIcon(new javax.swing.ImageIcon("images/vert.PNG")); // NOI18N
         vert.setOpaque(true);
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
